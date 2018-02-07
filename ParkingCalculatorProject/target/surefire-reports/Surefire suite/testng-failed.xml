@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="com.automation.tests.LongTermParkingTests">
+        <methods>
+          <include name="setup"/>
+          <include name="selectALot3"/>
+          <include name="leavingTime4"/>
+          <include name="selectTime3"/>
+          <include name="leavingTime5"/>
+          <include name="Calculate2"/>
+          <include name="Calculate4"/>
+          <include name="leavingTime2"/>
+          <include name="selectTime5"/>
+          <include name="Calculate3"/>
+          <include name="leavingTime3"/>
+          <include name="selectTime4"/>
+          <include name="selectALot5"/>
+          <include name="Calculate5"/>
+          <include name="selectALot4"/>
+          <include name="afterEachTestComplete"/>
+        </methods>
+      </class> <!-- com.automation.tests.LongTermParkingTests -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

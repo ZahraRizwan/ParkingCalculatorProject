@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.automation.tests.LongTermParkingTests
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 317.656 s <<< FAILURE! - in com.automation.tests.LongTermParkingTests
+afterEachTestComplete(com.automation.tests.LongTermParkingTests)  Time elapsed: 5.428 s  <<< FAILURE!
+java.lang.IllegalArgumentException: wrong number of arguments
+
